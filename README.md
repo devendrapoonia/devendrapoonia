@@ -1,25 +1,6 @@
 <h1>Welcome to my profile,</h1>
 
-<script src="https://kit.fontawesome.com/41a42e5903.js" crossorigin="anonymous"></script>
-    <style>
-        i{
-            font-size: 30px;
-            cursor: pointer;
-        }
 
-        .none{
-            text-decoration: none;
-            color: black;
-            margin-left: 10px;
-        }
-
-        .email{
-            color: #0366d6;
-            text-decoration: none;
-        }
-    </style>
-</head>
-<body>
     <a href="https://www.twitter.com/devendrapoonia0" target="_blank" class="none">
     <i class="fa fa-twitter"></i>
     </a>
