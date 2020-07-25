@@ -1,17 +1,27 @@
-<h1>Welcome to my profile,</h1>
+# Hello World,
+
+<a href="https://linkedin.com/in/devendra-poonia" target="_blank">
+  <img align="left" alt="Devendra Poonia - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="https://instagram.com/poonia_devendra" target="_blank">
+  <img align="left" alt="Devendra Poonia - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+<a href="https://twitter.com/devendrapoonia0" target="_blank">
+  <img align="left" alt="Devendra Poonia - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+<br />
+<br />
+
+I like to learn code.  
+I mostly code in Python and Javascript.
+
+You can also contact me - devendrapoonia9983@gmail.com
+
+Technologies:
+- Javascript, Python, Node, HTML, Ajax.
 
 
-   <!-- <a href="https://www.twitter.com/devendrapoonia0" target="_blank" class="none">
-    <i class="fa fa-twitter"></i>
-    </a>
-    <a href="https://www.instagram.com/poonia_devendra" target="_blank" class="none">
-    <i class="fa fa-instagram"></i>
-    </a>
-    <a href="https://www.linkedin.com/in/devendra-poonia" target="_blank" class="none">
-    <i class="fa fa-linkedin"></i>
-    </a>
+Also interested in:
+- Hacking, Blogging, Wordpress.
 
-    <p>I am an Web Developer at self employeed.</p>
-    <p>I make projects of python.And love to learn python</p>
-    <p>You can mail me at <a href="mailto:devendrapoonia9983@gmail.com" class="email">devendrapoonia9983@gmail.com</a></p>
-    -->
+Thanks.
